@@ -1,0 +1,13 @@
+{
+    "name": "Monguen Organization Workflow",
+    "description": "Monguen Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "js"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
